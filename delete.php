@@ -2,7 +2,7 @@
 // 関数ファイルの読み込み
 include('functions.php');
 // include('functions.php');
-
+// add commit push
 //1. GETデータ取得
 $id   = $_GET['id'];
 
